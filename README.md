@@ -3,3 +3,7 @@
 ## Subtitulo sobre el proyecto
 
 El proyecto consiste en que no haya problemas el usar Git en un parcial
+
+## La mejor función
+
+adsifdsijfipsdj
