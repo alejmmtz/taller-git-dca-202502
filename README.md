@@ -1,3 +1,5 @@
 # Mi Primer Título
 
-Un texto de ejemplo para el README.md
+## Subtitulo sobre el proyecto
+
+El proyecto consiste en que no haya problemas el usar Git en un parcial
